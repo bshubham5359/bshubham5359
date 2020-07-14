@@ -1,10 +1,9 @@
-### Hi there 👋
+<img src="https://github.com/bshubham5359/bshubham5359/blob/master/readme/profile_pic.jpg">
+### Hi 👋, It's me Shubham Bhardwaj here
+I am Software Developer, Data Scientist and Front end Developer. I love experimenting with new technology and building small projects.
 
-<!--
-**bshubham5359/bshubham5359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- ☀️ Learning and Developing Machine Learning based projects in Python.
+- ✍️ Writing tech blog posts over Internet.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
