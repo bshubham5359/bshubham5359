@@ -20,4 +20,3 @@ I love experimenting with new technology and building small projects.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bshubham5359&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/bshubham5359)  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bshubham5359.visitor-badge)
