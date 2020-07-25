@@ -1,5 +1,7 @@
-<img src="https://github.com/bshubham5359/bshubham5359/blob/master/readme/profile_pic.jpg">
+![Profile Picture](https://github.com/bshubham5359/bshubham5359/blob/master/readme/profile_pic.jpg)
+
 ### Hi 👋, It's me Shubham Bhardwaj here
+
 I am Software Developer, Data Scientist and Front end Developer. I love experimenting with new technology and building small projects.
 
 - ☀️ Learning and Developing Machine Learning based projects in Python.
