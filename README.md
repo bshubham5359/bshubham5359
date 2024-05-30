@@ -11,6 +11,14 @@
 
 - 📫 How to reach me **bshubham1706@gmail.com**
 
+<div><h4>The projects that show Skills: </h4></div>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bshubham5359&repo=Global-Terrorism-PowerBI)](https://github.com/bshubham5359/Global-Terrorism-PowerBI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bshubham5359&repo=Electric-Vehicle-Population-PowerBI)](https://github.com/bshubham5359/Electric-Vehicle-Population-PowerBI)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bshubham5359&repo=Naukri-Web-Scraping)](https://github.com/bshubham5359/Naukri-Web-Scraping)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bshubham5359&repo=Stock-Market-Analysis-and-Prediction-WebApps)](https://github.com/bshubham5359/Stock-Market-Analysis-and-Prediction-WebApps)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bshubham5359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bshubham5359" height="30" width="40" /></a>
