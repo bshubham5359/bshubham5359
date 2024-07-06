@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bshubham5359&label=Profile%20views&color=0e75b6&style=flat" alt="bshubham5359" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and AI model**
+- 🔭 I’m currently working on **Data Engineer Project 👨‍💻**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **in-depth data engineering 📄**
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Engineering 🙂**
 
 - 📫 How to reach me **bshubham1706@gmail.com**
 
