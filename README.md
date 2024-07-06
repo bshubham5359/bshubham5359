@@ -19,7 +19,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bshubham5359&repo=Naukri-Web-Scraping)](https://github.com/bshubham5359/Naukri-Web-Scraping)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bshubham5359&repo=Stock-Market-Analysis-and-Prediction-WebApps)](https://github.com/bshubham5359/Stock-Market-Analysis-and-Prediction-WebApps)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bshubham5359&repo=Azure-Tokyo-Olympics-Project)](https://github.com/bshubham5359/Azure-Tokyo-Olympics-Project)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
